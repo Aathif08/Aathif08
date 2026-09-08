@@ -91,22 +91,6 @@ A **Maven-based Selenium Java project** created for software quality assurance a
 
 `Java` `Selenium WebDriver` `Maven` `Automated Testing`
 
-
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aathif08&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aathif08&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -117,14 +101,13 @@ A **Maven-based Selenium Java project** created for software quality assurance a
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aathif08&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://ghchart.rshah.org/409ba5/Aathif08" width="100%"/>
 
 </div>
-
 ---
 
 # 🧰 Tools & Technologies
