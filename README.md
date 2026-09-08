@@ -1,6 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I'm <span style="color:#00e5ff;">Mhd Aathif</span>
 
 ### 💻 <span style="color:#7c4dff;">Software Engineering Student</span> | <span style="color:#00e676;">Web Developer</span> | <span style="color:#ff4081;">Software QA Enthusiast</span>
 
