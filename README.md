@@ -1,141 +1,156 @@
-# 👋 Hi, I'm Mhd Aathif
+<div align="center">
 
-### 💻 Software Engineering Student | Web Developer | Software QA Enthusiast
+# 👋 Hi, I'm <span style="color:#00e5ff;">Mhd Aathif</span>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Web+Developer;JavaScript+Developer;Software+Testing+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+### 💻 <span style="color:#7c4dff;">Software Engineering Student</span> | <span style="color:#00e676;">Web Developer</span> | <span style="color:#ff4081;">Software QA Enthusiast</span>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:7c4dff,100:ff4081&height=180&section=header&text=Mhd%20Aathif&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Web+Developer;Software+QA+Enthusiast;Java+%7C+JavaScript+%7C+Selenium;Building+Real-World+Applications" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-🎓 I am a Software Engineering student passionate about building modern and user-friendly applications.
+🎓 I am a **Software Engineering student** passionate about building modern and user-friendly applications.
 
-💻 I enjoy developing websites, web applications, and interactive projects.
+💻 I enjoy developing **websites, web applications, and interactive projects**.
 
-🧪 I am also interested in Software Quality Assurance and automated testing.
+🧪 I am also interested in **Software Quality Assurance and automated testing**.
 
-🌱 Currently improving my skills in software development, testing, databases, and modern technologies.
+🌱 Currently improving my skills in **software development, testing, databases, and modern technologies**.
 
-🎯 My goal is to become a skilled Software Engineer and build useful real-world applications.
+🎯 My goal is to become a **skilled Software Engineer** and build useful real-world applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql,selenium,maven,git,github,vscode&perline=5" />
 
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🧪 Testing
-
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium,java,maven" />
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-</p>
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 📊 Skills
 
-### 💻 Infinity Tec – Laptop Store Web Application
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-Programming-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-Web-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-Design-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-Build-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+## 💻 Infinity Tec – Laptop Store Web Application
 
 A web-based laptop store project designed to provide users with an online platform to view and manage laptop products.
 
-**Technologies:**
+### 🔧 Technologies
 
-* HTML
-* CSS
-* JavaScript
-* Web Development
+`HTML` `CSS` `JavaScript` `Web Development`
 
-🔗 **Project:** [Add your GitHub repository link here]
+<div align="center">
 
----
-
-### 🎮 2D Web Game
-
-An interactive 2D game developed using web technologies.
-
-**Technologies:**
-
-* HTML
-* CSS
-* JavaScript
-
-🔗 **Project:** [Add your GitHub repository link here]
-
----
-
-### 🧪 Selenium Automation Testing Project
-
-A Maven-based Selenium Java project created for software quality assurance and automated testing.
-
-**Technologies:**
-
-* Java
-* Selenium WebDriver
-* Maven
-* Automated Testing
-
-🔗 **Project:** [Add your GitHub repository link here]
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/YOUR_USERNAME/YOUR_INFINITY_TEC_REPOSITORY">
+<img src="https://img.shields.io/badge/View%20Project-00E5FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-## 🧰 Tools & Technologies
+## 🎮 2D Web Game
+
+An interactive **2D game** developed using modern web technologies.
+
+### 🔧 Technologies
+
+`HTML` `CSS` `JavaScript`
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_GAME_REPOSITORY">
+<img src="https://img.shields.io/badge/View%20Project-7C4DFF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🧪 Selenium Automation Testing Project
+
+A **Maven-based Selenium Java project** created for software quality assurance and automated testing.
+
+### 🔧 Technologies
+
+`Java` `Selenium WebDriver` `Maven` `Automated Testing`
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_SELENIUM_REPOSITORY">
+<img src="https://img.shields.io/badge/View%20Project-FF4081?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" width="70%"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🧰 Tools & Technologies
 
 ```text
 Java              ███████████████░░░░░
@@ -149,30 +164,54 @@ Git & GitHub      ███████████████░░░░░
 
 ---
 
-## 📈 Contribution Graph
+# 💡 Currently Learning
 
-[![Mhd Aathif's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Advanced%20JavaScript-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Modern%20Web%20Development-7C4DFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20QA-FF4081?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Selenium%20Automation-00E676?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database%20Management-FFD740?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-FF7043?style=for-the-badge"/>
+
+</div>
 
 ---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
 
 ## 👀 Profile Visitors
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00e5ff&style=for-the-badge"/>
 
----
+<br><br>
 
-## 💡 Currently Learning
+### ⭐ Thanks for visiting my profile!
 
-* 🚀 Advanced JavaScript
-* 🌐 Modern Web Development
-* 🧪 Software Quality Assurance
-* 🤖 Selenium Automation Testing
-* 🗄️ Database Management
-* 🔧 Git & GitHub
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4081,50:7c4dff,100:00e5ff&height=120&section=footer"/>
 
----
+</div>
 
 ## ⭐ Thanks for visiting my profile!
 
