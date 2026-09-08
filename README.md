@@ -1,211 +1,194 @@
-# 👋 Hey, I'm Mhd Aathif
+# 👋 Hi, I'm Mhd Aathif
+
+### 💻 [![Software Engineering Student](https://img.shields.io/badge/Software%20Engineering%20Student-00D9FF?style=for-the-badge&logo=github&logoColor=black)](#)
+
+### 🌐 Web Developer | 🧪 Software QA Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Student+%F0%9F%92%BB;Full+Stack+Web+Developer+%F0%9F%8C%90;JavaScript+Developer+%E2%9A%A1;Software+QA+%26+Automation+Enthusiast+%F0%9F%A7%AA;Building+Ideas+Into+Reality+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Web+Developer;JavaScript+Developer;Software+QA+Enthusiast;Automation+Testing+Enthusiast;Always+Learning+%F0%9F%9A%80" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
-
----
-
-## 🧑‍💻 Who Am I?
-
-```javascript
-const aathif = {
-    role: "Software Engineering Student",
-    interests: [
-        "Web Development",
-        "Software Engineering",
-        "Software Quality Assurance",
-        "Automation Testing",
-        "Database Development"
-    ],
-    currentlyLearning: [
-        "Advanced JavaScript",
-        "Modern Web Technologies",
-        "Software Testing"
-    ],
-    goal: "Build impactful software and become a professional Software Engineer 🚀",
-    mindset: "Learn → Build → Test → Improve → Repeat 🔥"
-};
-```
 
 ---
 
 ## 🚀 About Me
 
-🎓 Software Engineering student passionate about technology and problem solving.
+🎓 I am a Software Engineering student passionate about building modern and user-friendly applications.
 
-💻 I enjoy creating **websites, web applications and interactive applications**.
+💻 I enjoy developing websites, web applications, and interactive projects.
 
-🧪 Interested in **Software Quality Assurance, automation and testing**.
+🧪 I am also interested in Software Quality Assurance and automated testing.
 
-🗄️ Experienced with database concepts and application data management.
+🌱 Currently improving my skills in software development, testing, databases, and modern technologies.
 
-🌱 Always exploring new technologies and improving my development skills.
+🎯 My goal is to become a skilled Software Engineer and build useful real-world applications.
 
-⚡ I believe the best way to learn programming is to **build real projects**.
+💡 I believe in learning by building, testing, improving, and creating real-world solutions.
 
 ---
 
-# 💻 My Tech Universe
+# 🛠️ Tech Stack
 
-### 🧠 Programming Languages
+## 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
 </p>
 
-`Java` • `JavaScript` • `HTML5` • `CSS3`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-### 🌐 Web Development
+## 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
-* 🌐 Front-End Development
-* 🎨 Responsive Web Design
-* ⚡ Interactive Web Applications
-* 🧩 DOM Manipulation
-* 📱 Mobile-Friendly Interfaces
-* 🔗 Web Application Integration
+- 🌐 Front-End Development
+- 🎨 Responsive Web Design
+- ⚡ Interactive Web Applications
+- 🧩 DOM Manipulation
+- 📱 Responsive Interfaces
+- 🔗 Web Application Development
+- 🎯 User-Friendly UI Development
 
 ---
 
-### 🗄️ Database & Backend
+## 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,nodejs" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-* MySQL
-* Database Design
-* SQL
-* CRUD Operations
-* Relational Database Concepts
-* Data Management
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+- 🗄️ MySQL
+- 💾 SQL
+- 🏗️ Database Design
+- 🔗 Relationships
+- 📊 Data Management
+- ➕ CRUD Operations
+- 🔍 SQL Queries
+- 🧩 ER Diagram Concepts
 
 ---
 
-### 🧪 Software Quality Assurance
+## 🧪 Software Quality Assurance
 
 <p>
-<img src="https://skillicons.dev/icons?i=selenium,java,maven" />
+  <img src="https://skillicons.dev/icons?i=selenium,java,maven" />
 </p>
 
-* Selenium WebDriver
-* Automated Testing
-* Manual Testing
-* Test Case Design
-* Functional Testing
-* Regression Testing
-* Software Testing Fundamentals
-* Maven
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+- 🧪 Manual Testing
+- 🤖 Automation Testing
+- 🌐 Selenium WebDriver
+- ✅ Test Case Design
+- 🔍 Functional Testing
+- 🔄 Regression Testing
+- 🐞 Bug Identification
+- 📋 Test Execution
+- 🧪 Software Quality Assurance
+- ⚙️ Maven
 
 ---
 
-### 🛠️ Development Tools
+## 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
-* Git
-* GitHub
-* Visual Studio Code
-* IntelliJ IDEA
-* GitHub Repositories
-* Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
-# 📊 Skill Level
+# 📌 Featured Projects
 
-```text
-JavaScript          ████████████████░░░░  80%
-Java                ███████████████░░░░░  75%
-HTML                ██████████████████░░  90%
-CSS                 █████████████████░░░  85%
-MySQL               ██████████████░░░░░░  70%
-Selenium            █████████████░░░░░░░  65%
-Git & GitHub        ███████████████░░░░░  75%
-Software Testing    ███████████████░░░░░  75%
-```
+## 💻 Infinity Tec – Laptop Store Web Application
 
----
+A web-based laptop store project designed to provide users with an online platform to view and manage laptop products.
 
-# 🚀 Featured Projects
+### 🛠️ Technologies
 
-## 💻 Infinity Tec — Laptop Store
+- HTML
+- CSS
+- JavaScript
+- Web Development
 
-🛒 A web application created for a laptop store to showcase and manage laptop products.
+### ✨ Features
 
-**Tech Stack**
+- 💻 Laptop product showcase
+- 🛒 Product-focused interface
+- 🎨 Responsive design
+- ⚡ Interactive elements
+- 👤 User-friendly interface
 
-`HTML` `CSS` `JavaScript`
-
-✨ **Highlights**
-
-* Product-focused interface
-* Responsive web design
-* Interactive components
-* User-friendly interface
-
-🔗 **Repository:** [Add GitHub Repository]
+🔗 **Project:** [Add your GitHub repository link here](https://github.com/YOUR_USERNAME)
 
 ---
 
-## 🎮 2D JavaScript Game
+## 🎮 2D Web Game
 
-🎮 An interactive 2D browser game developed using web technologies.
+An interactive 2D game developed using web technologies.
 
-**Tech Stack**
+### 🛠️ Technologies
 
-`HTML` `CSS` `JavaScript`
+- HTML
+- CSS
+- JavaScript
 
-✨ **Highlights**
+### ✨ Features
 
-* Interactive gameplay
-* JavaScript-based game logic
-* Browser-based experience
-* Animated game elements
+- 🎮 Interactive gameplay
+- ⚡ JavaScript game logic
+- 🎨 Interactive interface
+- 🌐 Browser-based game
+- 🧩 Game elements and animations
 
-🔗 **Repository:** [Add GitHub Repository]
-
----
-
-## 🧪 Selenium Automation Testing
-
-🔍 A Java Maven project focused on automated software testing using Selenium WebDriver.
-
-**Tech Stack**
-
-`Java` `Selenium` `Maven`
-
-✨ **Highlights**
-
-* Automated test execution
-* Web element interaction
-* Test automation
-* Software QA concepts
-
-🔗 **Repository:** [Add GitHub Repository]
+🔗 **Project:** [Add your GitHub repository link here](https://github.com/YOUR_USERNAME)
 
 ---
 
-# 📈 GitHub Analytics
+## 🧪 Selenium Automation Testing Project
+
+A Maven-based Selenium Java project created for software quality assurance and automated testing.
+
+### 🛠️ Technologies
+
+- Java
+- Selenium WebDriver
+- Maven
+- Automated Testing
+
+### ✨ Skills Demonstrated
+
+- 🧪 Test automation
+- 🔍 Web element identification
+- 🤖 Automated test execution
+- 📋 Test case implementation
+- 🐞 Software testing concepts
+
+🔗 **Project:** [Add your GitHub repository link here](https://github.com/YOUR_USERNAME)
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
 </p>
 
 ---
@@ -213,87 +196,31 @@ Software Testing    ███████████████░░░░░
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
-# 📊 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
 
-[![Aathif's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night\&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Mhd Aathif's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_USERNAME)
 
 </p>
 
 ---
 
-# 🎯 What I'm Working On
+# 📊 My Skills
 
 ```text
-🌐 Web Development
-🧪 Software Quality Assurance
-🤖 Test Automation
-🗄️ Database Applications
-💡 Personal Projects
-📚 Continuous Learning
-```
-
----
-
-# 🌱 Currently Learning
-
-🔹 Advanced JavaScript
-🔹 Modern Web Development
-🔹 Software Testing & QA
-🔹 Selenium Automation
-🔹 Database Development
-🔹 Git & GitHub
-🔹 Software Engineering Practices
-
----
-
-# 🧩 Developer Mindset
-
-> 💡 **Think → Design → Develop → Test → Improve**
-
-I don't just want to write code.
-
-I want to understand the problem, build a solution, test it properly, and continuously make it better. 🚀
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💭 Developer Quote
-
-<p align="center">
-
-### "Code. Test. Learn. Improve. Repeat. 🚀"
-
-</p>
-
----
-
-<p align="center">
-
-⭐ **Thanks for visiting my GitHub profile!**
-
-### 🚀 Keep Learning • Keep Building • Keep Growing
-
-</p>
-
+Java              ███████████████░░░░░   75%
+JavaScript        ████████████████░░░░   80%
+HTML              ██████████████████░░   90%
+CSS               █████████████████░░░   85%
+MySQL             ██████████████░░░░░░   70%
+Selenium          █████████████░░░░░░░   65%
+Git & GitHub      ███████████████░░░░░   75%
+Software Testing  ███████████████░░░░░   75%
