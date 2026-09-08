@@ -99,9 +99,9 @@ A **Maven-based Selenium Java project** created for software quality assurance a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aathif08&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aathif08&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
 
 </div>
 
@@ -111,7 +111,7 @@ A **Maven-based Selenium Java project** created for software quality assurance a
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Aathif08&theme=tokyonight&hide_border=true&border_radius=15" width="70%"/>
 
 </div>
 
@@ -121,7 +121,7 @@ A **Maven-based Selenium Java project** created for software quality assurance a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aathif08&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -160,15 +160,15 @@ Git & GitHub      ███████████████░░░░░
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Aathif08">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/mohomad-aathif-6211b6359/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:aathifmax6gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -180,7 +180,7 @@ Git & GitHub      ███████████████░░░░░
 
 ## 👀 Profile Visitors
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00e5ff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Aathif08&label=Profile%20Views&color=00e5ff&style=for-the-badge"/>
 
 <br><br>
 
@@ -188,10 +188,10 @@ Git & GitHub      ███████████████░░░░░
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4081,50:7c4dff,100:00e5ff&height=120&section=footer"/>
 
-</div>
 
-## ⭐ Thanks for visiting my profile!
+
 
 <p align="center">
   <b>Let's build something amazing together! 🚀</b>
 </p>
+</div>
