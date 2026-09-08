@@ -3,8 +3,9 @@
 
 ### 💻 <span style="color:#7c4dff;">Software Engineering Student</span> | <span style="color:#00e676;">Web Developer</span> | <span style="color:#ff4081;">Software QA Enthusiast</span>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:7c4dff,100:ff4081&height=180&section=header&text=Mohomad%20Aathif&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Web+Developer;Software+QA+Enthusiast;Java+%7C+JavaScript+%7C+Selenium;Building+Real-World+Applications" />
+<img src="https://capsule-render.vercel.app/api?
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Web+Developer;Software+QA+Enthusiast;Java+%7C+JavaScript+%7C+Selenium;Building+Real-World+Applications" />
+type=waving&color=0:00e5ff,50:7c4dff,100:ff4081&height=180&section=header&text=Mohomad%20Aathif&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 </div>
 
